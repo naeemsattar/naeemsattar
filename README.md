@@ -5,6 +5,7 @@
 ### Technologies which I use
 - Python
 - Pandas
+- Dask
 - Numpy
 - Matplotlib
 - MySql
